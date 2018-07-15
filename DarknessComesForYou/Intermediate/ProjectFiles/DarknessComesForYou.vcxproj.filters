@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\DarknessComesForYou.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{4BA9AE95-BF06-4F82-B716-463F43920E0B}</UniqueIdentifier>
+			<UniqueIdentifier>{EBF5B4F9-8911-4FE4-AF25-68689FB20C0B}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\DarknessComesForYou.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{AD40E6E5-1B8D-436C-BC67-AD624E7FC538}</UniqueIdentifier>
+			<UniqueIdentifier>{B298FB7A-0244-44F7-8BB5-7F8B8CA37415}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -25,7 +25,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\DarknessComesForYou">
-			<UniqueIdentifier>{10DC8C02-D578-4099-A3AF-6E7D440C103F}</UniqueIdentifier>
+			<UniqueIdentifier>{5E7348AC-68DC-4BEB-92C9-120341BFE495}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\DarknessComesForYou\DarknessComesForYou.Build.cs">
 			<Filter>Source\DarknessComesForYou</Filter>
