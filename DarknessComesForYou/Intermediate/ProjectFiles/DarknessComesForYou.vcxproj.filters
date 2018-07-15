@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\DarknessComesForYou.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4BA9AE95-BF06-4F82-B716-463F43920E0B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DarknessComesForYou.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\DarknessComesForYouEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{AD40E6E5-1B8D-436C-BC67-AD624E7FC538}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\DarknessComesForYou">
+			<UniqueIdentifier>{10DC8C02-D578-4099-A3AF-6E7D440C103F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\DarknessComesForYou\DarknessComesForYou.Build.cs">
+			<Filter>Source\DarknessComesForYou</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\DarknessComesForYou\DarknessComesForYou.cpp">
+			<Filter>Source\DarknessComesForYou</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DarknessComesForYou\DarknessComesForYou.h">
+			<Filter>Source\DarknessComesForYou</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\DarknessComesForYou\DarknessComesForYouGameModeBase.cpp">
+			<Filter>Source\DarknessComesForYou</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\DarknessComesForYou\DarknessComesForYouGameModeBase.h">
+			<Filter>Source\DarknessComesForYou</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

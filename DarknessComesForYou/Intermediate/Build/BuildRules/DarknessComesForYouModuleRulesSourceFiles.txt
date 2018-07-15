@@ -1,0 +1,3 @@
+D:\repos\DarknessComes\DarknessComesForYou\Source\DarknessComesForYou\DarknessComesForYou.Build.cs
+D:\repos\DarknessComes\DarknessComesForYou\Source\DarknessComesForYou.Target.cs
+D:\repos\DarknessComes\DarknessComesForYou\Source\DarknessComesForYouEditor.Target.cs
