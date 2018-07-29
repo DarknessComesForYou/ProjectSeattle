@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
-/I D:\repos\DarknessComes\DarknessComesForYou\Source
-/I D:\repos\DarknessComes\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Inc\DarknessComesForYou
-/I D:\repos\DarknessComes\DarknessComesForYou\Source\DarknessComesForYou
+/I C:\Users\RAC\Documents\GitHub\ProjectSeattle\DarknessComesForYou\Source
+/I C:\Users\RAC\Documents\GitHub\ProjectSeattle\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Inc\DarknessComesForYou
+/I C:\Users\RAC\Documents\GitHub\ProjectSeattle\DarknessComesForYou\Source\DarknessComesForYou
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -363,9 +363,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\repos\DarknessComes\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Inc\DarknessComesForYou\DarknessComesForYouGameModeBase.gen.cpp"
-/FI"D:\repos\DarknessComes\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Development\DarknessComesForYou\Definitions.DarknessComesForYou.h"
-/Fo"D:\repos\DarknessComes\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Development\DarknessComesForYou\DarknessComesForYouGameModeBase.gen.cpp.obj"
+"C:\Users\RAC\Documents\GitHub\ProjectSeattle\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Inc\DarknessComesForYou\DarknessComesForYouGameModeBase.gen.cpp"
+/FI"C:\Users\RAC\Documents\GitHub\ProjectSeattle\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Development\DarknessComesForYou\Definitions.DarknessComesForYou.h"
+/Fo"C:\Users\RAC\Documents\GitHub\ProjectSeattle\DarknessComesForYou\Intermediate\Build\Win64\UE4Editor\Development\DarknessComesForYou\DarknessComesForYouGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
